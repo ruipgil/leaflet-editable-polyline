@@ -1,0 +1,26 @@
+{
+  "name": "leaflet-editable-polyline",
+  "version": "1.0.0",
+  "description": "editable polylines plugin for leaflet",
+  "main": "src/leaflet-editable-polyline.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tkrajina/leaflet-editable-polyline/"
+  },
+  "keywords": [
+    "leaflet",
+    "map",
+    "editable",
+    "polyline"
+  ],
+  "author": "tkrajina",
+  "license": "Apache-2.0",
+  "dependencies": {
+  }
+}
